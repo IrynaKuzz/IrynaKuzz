@@ -18,4 +18,5 @@
   Stack: React, Ant Design.
 
 📌 I am currently looking for new opportunities
+
 📫 <a href="mailto: iryna.kuz.job@gmail.com"> How to reach me </a>
