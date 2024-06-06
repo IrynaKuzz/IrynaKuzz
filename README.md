@@ -1,16 +1,23 @@
-## Hi there 👋
+💬 I am a Frontend web developer with experience in the IT industry. My professional journey started as a web developer, and over the years, I have actively participated in creating, supporting and testing various websites. I have a good understanding of the software development and testing process.
 
-<!--
-**IrynaKuzz/IrynaKuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤔 My skills:
+- Proficient in HTML, CSS, Sass/Scss/Less, Pug (Jade), Git, Gulp, Bootstrap, Foundation, PrimeNg, Ant Design and writing cross-browser code. 
+- Basic knowledge and experience with JavaScript, SQL. 
+- Experienced in Angular, Angular Material, React. 
+- Experience of working with Google Analytics. 
+- Proficient in tools like Mantis, Jira, Trello, Postman and Developer tools. 
+- Understanding of network concepts and basic knowledge of Linux.
+- Experience with Agile, Scrum, Kanban methodologies.
 
-Here are some ideas to get you started:
+👩‍💻 Example of work: 
+more than 100 websites of government organizations
+Stack: HTML (Pug/Jade), CSS (Sass), Bootstrap, Javascript, jQuery, gulp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+about 7 sites for geriatric houses
+Stack: HTML (Pug/Jade), CSS (Sass), Angular , Angular Material.
+
+Github Project: https://github.com/IrynaKuzz/crypto-project.git
+Stack: React, Ant Design.
+
+📌 I am currently looking for new opportunities
+📫 <a href='"mailto: iryna.kuz.job@gmail.com'> How to reach me </a>
