@@ -10,13 +10,13 @@
 - Experience with Agile, Scrum, Kanban methodologies.
 
 👩‍💻 Example of work:
-- more than 100 websites of government organizations
+- more than 100 websites of government organizations.
   Stack: HTML (Pug/Jade), CSS (Sass), Bootstrap, Javascript, jQuery, gulp.
 
-- about 7 sites for geriatric houses
+- about 7 sites for geriatric houses.
   Stack: HTML (Pug/Jade), CSS (Sass), Angular, Angular Material.
 
-- the example of a code: https://github.com/IrynaKuzz/crypto-project.git
+- the example of a code: https://github.com/IrynaKuzz/crypto-project.git.
   Stack: React, Ant Design.
 
 📌 I am currently looking for new opportunities
