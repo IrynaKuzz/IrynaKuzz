@@ -16,7 +16,7 @@
 - about 7 sites for geriatric houses.
   Stack: HTML (Pug/Jade), CSS (Sass), Angular, Angular Material.
 
-- the example of a code: https://github.com/IrynaKuzz/crypto-project.git.
+- code example: https://github.com/IrynaKuzz/crypto-project.git.
   Stack: React, Ant Design.
 
 📌 I am currently looking for new opportunities
