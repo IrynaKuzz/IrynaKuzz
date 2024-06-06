@@ -14,10 +14,11 @@ more than 100 websites of government organizations
 Stack: HTML (Pug/Jade), CSS (Sass), Bootstrap, Javascript, jQuery, gulp.
 
 about 7 sites for geriatric houses
-Stack: HTML (Pug/Jade), CSS (Sass), Angular , Angular Material.
+Stack: HTML (Pug/Jade), CSS (Sass), Angular, Angular Material.
 
 Github Project: https://github.com/IrynaKuzz/crypto-project.git
 Stack: React, Ant Design.
 
 📌 I am currently looking for new opportunities
-📫 <a href='"mailto: iryna.kuz.job@gmail.com'> How to reach me </a>
+
+📫 <a href="mailto: iryna.kuz.job@gmail.com"> How to reach me </a>
