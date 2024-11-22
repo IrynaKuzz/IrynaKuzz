@@ -10,6 +10,7 @@
 - Experience with Agile, Scrum, Kanban methodologies.
 
 👩‍💻 Example of work:
+- <a href="https://public.tableau.com/app/profile/offene.daten.stadt.konstanz/vizzes" alt="Tableau Dashboard: Population Trends in Konstanz (1975–2023)">Tableau Dashboard: Population Trends in Konstanz (1975–2023) </a>.
 - more than 100 websites of municipal organizations.
   Stack: HTML (Pug/Jade), CSS (Sass), Bootstrap, Javascript, jQuery, gulp.
 - about 7 sites for geriatric houses.
