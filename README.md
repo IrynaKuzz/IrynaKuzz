@@ -4,10 +4,10 @@ I am a Frontend web developer with experience in the IT industry. My professiona
 💬 FRONT-END: • HTML • CSS • Sass/Scss/Less • JavaScript/Typescript • Pug(Jade) • Git • Gulp • Bootstrap • Foundation  
 • Angular • Angular Material • React • PrimeNg  
 • Google Analytics • SEO
-💬 QA-TEST: • Mantis • Jira • Trello • Postman • Entwicklertools 
-💬 DATA: • Python • MySQL • Observable • Tableau
-💬 METHODEN: • Scrum • Agile • Kanban
-💬 SOFT SKILLS: • Team- und Kommunikationsfähigkeit • Verantwortungsbewusstsein • Ergebnisse liefern • Lernfähigkeit
+💬 QA-TEST: • Mantis • Jira • Trello • Postman • Entwicklertools  
+💬 DATA: • Python • MySQL • Observable • Tableau  
+💬 METHODEN: • Scrum • Agile • Kanban  
+💬 SOFT SKILLS: • Team- und Kommunikationsfähigkeit • Verantwortungsbewusstsein • Ergebnisse liefern • Lernfähigkeit  
 
 👩‍💻 Example of work:
 - <a href="https://public.tableau.com/app/profile/offene.daten.stadt.konstanz/vizzes" alt="Tableau Dashboard: Population Trends in Konstanz (1975–2023)">Tableau Dashboard: Population Growth in Konstanz (1975–2023)</a>.
