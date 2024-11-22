@@ -1,6 +1,6 @@
 I am a Frontend web developer with experience in the IT industry. My professional journey started as a web developer, and over the years, I have actively participated in creating, supporting and testing various websites. I have a good understanding of the software development and testing process.
 
-🤔 <h3>My skills:</h3>  
+🤔 <h3>My skills:</h3>
 💬 <b>FRONT-END</b>: • HTML • CSS • Sass/Scss/Less • JavaScript/Typescript • Pug(Jade) • Git • Gulp • Bootstrap • Foundation  
 • Angular • Angular Material • React • PrimeNg  
 • Google Analytics • SEO
