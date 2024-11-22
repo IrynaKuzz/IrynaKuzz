@@ -4,6 +4,7 @@ I am a Frontend web developer with experience in the IT industry. My professiona
 💬 FRONT-END: • HTML • CSS • Sass/Scss/Less • JavaScript/Typescript • Pug(Jade) • Git • Gulp • Bootstrap • Foundation  
 • Angular • Angular Material • React • PrimeNg  
 • Google Analytics • SEO
+
 💬 QA-TEST: • Mantis • Jira • Trello • Postman • Entwicklertools  
 💬 DATA: • Python • MySQL • Observable • Tableau  
 💬 METHODEN: • Scrum • Agile • Kanban  
