@@ -1,13 +1,13 @@
 💬 I am a Frontend web developer with experience in the IT industry. My professional journey started as a web developer, and over the years, I have actively participated in creating, supporting and testing various websites. I have a good understanding of the software development and testing process.
 
 🤔 My skills:
-- Proficient in HTML, CSS, Sass/Scss/Less, Pug (Jade), Git, Gulp, Bootstrap, Foundation, PrimeNg, Ant Design and writing cross-browser code. 
-- Basic knowledge and experience with JavaScript, SQL. 
-- Experienced in Angular, Angular Material, React. 
-- Experience of working with Google Analytics. 
-- Proficient in tools like Mantis, Jira, Trello, Postman and Developer tools. 
-- Understanding of network concepts and basic knowledge of Linux.
-- Experience with Agile, Scrum, Kanban methodologies.
+checkbook FRONT-END: • HTML • CSS • Sass/Scss/Less • JavaScript/Typescript • Pug(Jade) • Git • Gulp • Bootstrap • Foundation 
+• Angular • Angular Material • React • PrimeNg
+• Google Analytics • SEO
+checkbook QA-TEST: • Mantis • Jira • Trello • Postman • Entwicklertools
+checkbook DATA: • Python • MySQL • Observable • Tableau
+checkbook METHODEN: • Scrum • Agile • Kanban
+checkbook SOFT SKILLS: • Team- und Kommunikationsfähigkeit • Verantwortungsbewusstsein • Ergebnisse liefern • Lernfähigkeit
 
 👩‍💻 Example of work:
 - <a href="https://public.tableau.com/app/profile/offene.daten.stadt.konstanz/vizzes" alt="Tableau Dashboard: Population Trends in Konstanz (1975–2023)">Tableau Dashboard: Population Growth in Konstanz (1975–2023)</a>.
