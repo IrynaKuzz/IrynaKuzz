@@ -6,8 +6,11 @@ I am a Frontend web developer with experience in the IT industry. My professiona
 • Google Analytics • SEO
 
 💬 QA-TEST: • Mantis • Jira • Trello • Postman • Entwicklertools  
+
 💬 DATA: • Python • MySQL • Observable • Tableau  
+
 💬 METHODEN: • Scrum • Agile • Kanban  
+
 💬 SOFT SKILLS: • Team- und Kommunikationsfähigkeit • Verantwortungsbewusstsein • Ergebnisse liefern • Lernfähigkeit  
 
 👩‍💻 Example of work:
