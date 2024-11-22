@@ -3,7 +3,7 @@ I am a Frontend web developer with experience in the IT industry. My professiona
 <h3>My skills:</h3>
 💬 <b>FRONT-END</b>: • HTML • CSS • Sass/Scss/Less • JavaScript/Typescript • Pug(Jade) • Git • Gulp • Bootstrap • Foundation  
 • Angular • Angular Material • React • PrimeNg  
-• Google Analytics • SEO
+• Google Analytics • SEO  
 
 💬 <b>QA-TEST</b>: • Mantis • Jira • Trello • Postman • Entwicklertools  
 
