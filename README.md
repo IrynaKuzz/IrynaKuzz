@@ -20,9 +20,7 @@ I am a Frontend web developer with experience in the IT industry. My professiona
 - <a href="https://github.com/IrynaKuzz/crypto-project.git">Cryptocurrency Analysis and Wallet Management</a>. Stack: React, Ant Design.
   This project provides tools for analyzing cryptocurrency growth trends, managing digital wallets, and facilitating the purchase of cryptocurrencies. It enables users to track market performance and add new currencies to their wallets.  
 - more than 100 websites of municipal organizations.
-  Stack: HTML (Pug/Jade), CSS (Sass), Bootstrap, Javascript, jQuery, gulp.
-- about 7 sites for geriatric houses>
-  Stack: HTML (Pug/Jade), CSS (Sass), Angular, Angular Material.
+  Stack: HTML (Pug/Jade), CSS (Sass), Bootstrap, Javascript, jQuery, gulp, Angular, Angular Material.
 
 📌 I am currently looking for new opportunities
 
