@@ -1,11 +1,20 @@
-I am a Frontend web developer with experience in the IT industry. My professional journey started as a web developer, and over the years, I have actively participated in creating, supporting and testing various websites. I have a good understanding of the software development and testing process.
+I am a software tester with experience in the IT industry. I have a good understanding of the software development and testing process.
 
+- strong knowledge of testing theory, experience in creating and maintaining test documentation;
+- experience of testing web applications on desktop and mobile;
+- manual and automated testing of REST API;
+- experience of working by Scrum methodology using Jira, Mantis Bug Tracker, TestRail;
+- good communication skills, collaboration with team and customer;
+- requirements analysis experience;
+- have a QATestLab certificate
+  
 <h3>My skills:</h3>
+
+💬 <b>QA-TEST</b>: • Mantis • Jira • Trello • Postman • DevTools
+
 💬 <b>FRONT-END</b>: • HTML • CSS • Sass/Scss/Less • JavaScript/Typescript • Pug(Jade) • Git • Gulp • Bootstrap • Foundation  
 • Angular • Angular Material • React • PrimeNg  
-• Google Analytics • SEO  
-  
-💬 <b>QA-TEST</b>: • Mantis • Jira • Trello • Postman • Entwicklertools  
+• Google Analytics • SEO    
   
 💬 <b>DATA</b>: • Python • MySQL • Observable • Tableau  
 
